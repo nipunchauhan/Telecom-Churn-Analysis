@@ -40,9 +40,9 @@ This project predicts customer churn using the Telco Customer Churn dataset and 
 ## 🔢 Model Results
 | Model              | F1 Score | Accuracy |
 |-------------------|----------|----------|
-| Logistic Regression | 0.70     | ~80%     |
-| Random Forest       | ~0.68    | ~78%     |
-| XGBoost             | ~0.67    | ~79%     |
+| Logistic Regression | 0.61     | ~74%     |
+| Random Forest       | 0.60    | ~72%     |
+| XGBoost             | 0.59    | ~73%     |
 
 ✅ **Logistic Regression** had the best F1 Score, balancing recall and precision.
 
