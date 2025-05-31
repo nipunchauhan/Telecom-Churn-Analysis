@@ -21,7 +21,7 @@ This project predicts customer churn using the Telco Customer Churn dataset and 
 - **Features**: Demographics, services, billing, contract info
 - **Target**: `Churn` (Yes/No)
 
-⚠️ *Dataset not included due to licensing. Please download it manually from Kaggle.*
+*Dataset not included due to licensing. Please download it manually from Kaggle.*
 
 ## 🛠 Tools Used
 - KNIME Analytics Platform
