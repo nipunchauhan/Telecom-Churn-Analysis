@@ -10,10 +10,10 @@ This project predicts customer churn using the Telco Customer Churn dataset and 
 - Generate insights and actionable business recommendations
 
 - ## 📁 Project Structure
-data/ - Dataset description and download instructions
-workflow/ - KNIME workflow (.knwf file)
-reports/ - Project report (PDF presentation)
-images/ - Screenshots and visualizations
+- data/ - Dataset description and download instructions
+- workflow/ - KNIME workflow (.knwf file)
+- reports/ - Project report (PDF presentation)
+- images/ - Screenshots and visualizations
 
 ## 📊 Dataset
 - **Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
