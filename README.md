@@ -48,11 +48,8 @@ This project predicts customer churn using the Telco Customer Churn dataset and 
 
 ## 📘 Final Report
 📝 A detailed report is available:
-[📥 Download Report (PDF)](reports/Telecom Churn Knime Final.pdf)
+[📥 Download Report (PDF)](Report/Telecom Churn Knime Final.pdf)
 
-## 📸 Visualizations
-- ![Workflow Snapshot](images/workflow_snapshot.png)
-- ![Churn by Contract](images/churn_by_contract.png)
 
 ## 👤 Author
 Nipun Chauhan  
