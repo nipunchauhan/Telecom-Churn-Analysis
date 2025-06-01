@@ -9,12 +9,6 @@ This project predicts customer churn using the Telco Customer Churn dataset and 
 - Evaluate Logistic Regression, Random Forest, and XGBoost models
 - Generate insights and actionable business recommendations
 
-- ## 📁 Project Structure
-- data/ - Dataset description and download instructions
-- workflow/ - KNIME workflow (.knwf file)
-- reports/ - Project report (PDF presentation)
-- images/ - Screenshots and visualizations
-
 ## 📊 Dataset
 - **Source**: [Kaggle - Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 - **Size**: ~7,043 rows
